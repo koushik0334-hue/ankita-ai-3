@@ -1,1 +1,14 @@
-
+{
+  "name": "ankita-ai-3",
+  "version": "3.0.0",
+  "description": "ANKITA AI 3.0 Personal AI Voice Assistant Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5",
+    "openai": "^5.20.0"
+  }
+}
